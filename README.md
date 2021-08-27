@@ -4,3 +4,4 @@ App to create this guide book: GitBook!
 Checkout more: https://app.gitbook.com/@swapnilg671/spaces
 
 udemy: https://www.udemy.com/course/relational-database-design/#overview
+https://cognizantee.udemy.com/course/datamodeling/learn/lecture/6153882#overview
