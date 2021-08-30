@@ -38,7 +38,7 @@ Data Integration more
  -Easily extendable
  -Good performance 
 
- ## function depeendency
+ ## function dependency
 
  A->B , B is functionally  dependent on A
 
