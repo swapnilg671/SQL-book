@@ -42,7 +42,7 @@ Data Integration more
 
  A->B , B is functionally  dependent on A
 
- Enroll no | Name | adress 
- 101 | Ravi | ABC
- 102| Raj | ABC
+ Enroll no | Name | adress   
+ 101 | Ravi | ABC  
+ 102| Raj | ABC  
  103 | Ravi | xyz
