@@ -38,10 +38,11 @@ Data Integration more
  -Easily extendable
  -Good performance 
 
- ## function depeendency
+ ## function dependency
 
  A->B , B is functionally  dependent on A
 
+<<<<<<< HEAD
  Enroll no | Name | adress 
  101 | Ravi | ABC
  102| Raj | ABC
@@ -65,3 +66,9 @@ X->A one of the following should be true
     * A is prime attribute
     * X->A is a trival functional dependency
 
+=======
+ Enroll no | Name | adress   
+ 101 | Ravi | ABC  
+ 102| Raj | ABC  
+ 103 | Ravi | xyz
+>>>>>>> 11999ef51d2a5ac2bb04a9a556c2d9ec846d0d46
