@@ -46,3 +46,22 @@ Data Integration more
  101 | Ravi | ABC
  102| Raj | ABC
  103 | Ravi | xyz
+
+  ## Data Noramalisation 
+  ### first normal form 
+  * Atomic
+  * only one attribute 
+  * only range values
+
+  ### second Normal form 
+
+  *No partial dependency 
+### third normal form
+* 2NF  
+* non prime dependency should not define non prime attribute 
+* For every functional dependency   
+X->A one of the following should be true 
+    * X is a superkey
+    * A is prime attribute
+    * X->A is a trival functional dependency
+

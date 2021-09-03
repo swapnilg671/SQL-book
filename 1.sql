@@ -1,0 +1,1 @@
+Insert Into rentals (rental_id, costumer_id,car_id, pickup)
